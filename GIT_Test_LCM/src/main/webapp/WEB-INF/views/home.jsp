@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>
-	삭제 후 변경2222222
+	삭제 후 변경
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
